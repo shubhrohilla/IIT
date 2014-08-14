@@ -1,6 +1,7 @@
 #include<conio.h>
 #include<stdio.h>
-void main()
+int main()
 {
 	cout>>"hello world!";
+	return 0;
 }
