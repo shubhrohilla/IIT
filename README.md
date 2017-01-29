@@ -1,7 +1,7 @@
-Introduction to Information Technology
+Introduction to Information Technology: MS Word; excel; office
 ======================================
 
-Here I will put all my Introduction to Information Technology stuffs.
+Solution are in .PDFs to basic 1st year CSE subject: Introduction to Computers/Information-Technology
 
 1. MS Word shortcut commands. 
 2. Steps to open a MS word file by different ways.
