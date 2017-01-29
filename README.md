@@ -1,4 +1,4 @@
-Introduction to Information Technology: MS Word; excel; office
+Introduction to Information Technology
 ======================================
 
 Solution are in .PDFs to basic 1st year CSE subject: Introduction to Computers/Information-Technology
